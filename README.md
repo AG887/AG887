@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm AyushGupta
 
-<!--
-**AG887/AG887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- A passionate third-year Computer Science undergraduate at Thakur Shyamnarayan Degree College, Mumbai, and an active tech enthusiast who loves building meaningful web and mobile applications.
 
-Here are some ideas to get you started:
+When I'm not writing code, you can find me leading community initiatives, exploring the outdoors, or gaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- python
+- webdev
+- java
+- SQL
+
+## 📌 Projects
+- Waste management hub
+- Vortex-A secure, in-browser P2P file-sharing application using WebRTC and AES-256-GCM encryption. Zero server storage, infinite file size capability without RAM crashes.
+
+## 📫 Connect with Me
+- Email: agrahariayush8879930@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/nilesh-gupta-691042389/](https://www.linkedin.com/in/ayush-gupta-442728349/)
+- Twitter: 
+- Instagram : 
+
+⭐ Thats All
